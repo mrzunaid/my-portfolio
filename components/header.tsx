@@ -81,6 +81,7 @@ const Header = () => {
         </div>
       </div>
 
+
       {/* Mobile Navigation */}
       <div className={cn(
         "absolute top-full left-0 right-0 bg-background/95 backdrop-blur-md shadow-lg transition-all duration-300 ease-in-out md:hidden overflow-hidden",
